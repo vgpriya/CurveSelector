@@ -1,0 +1,10 @@
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\bin\Debug\CurveSelectionClient.exe.config
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\bin\Debug\CurveSelectionClient.exe
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\bin\Debug\CurveSelectionClient.pdb
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.csprojAssemblyReference.cache
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.Form1.resources
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.Properties.Resources.resources
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.csproj.GenerateResource.cache
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.csproj.CoreCompileInputs.cache
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.exe
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.pdb

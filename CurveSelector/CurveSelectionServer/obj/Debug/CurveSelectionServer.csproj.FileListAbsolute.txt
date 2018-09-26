@@ -1,0 +1,7 @@
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\bin\Debug\CurveSelectionServer.exe.config
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\bin\Debug\CurveSelectionServer.exe
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\bin\Debug\CurveSelectionServer.pdb
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.csprojAssemblyReference.cache
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.csproj.CoreCompileInputs.cache
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.exe
+F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.pdb

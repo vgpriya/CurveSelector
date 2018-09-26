@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log>
+  <logCurveInfo id="index" />
+  <logCurveInfo id="A">
+    <minIndex>150.0</minIndex>
+    <maxIndex>750.0</maxIndex>
+    <typeLogData>double</typeLogData>
+  </logCurveInfo>
+  <logCurveInfo id="A2">
+    <minIndex>25</minIndex>
+    <maxIndex>1</maxIndex>
+    <typeLogData>double</typeLogData>
+  </logCurveInfo>
+  <logCurveInfo id="B">
+    <minIndex>44.0</minIndex>
+    <maxIndex>44.0</maxIndex>
+    <typeLogData>double</typeLogData>
+  </logCurveInfo>
+</log>
