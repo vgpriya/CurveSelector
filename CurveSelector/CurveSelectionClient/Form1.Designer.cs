@@ -42,6 +42,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.btnExport = new System.Windows.Forms.Button();
             this.btnConnect = new System.Windows.Forms.Button();
+            this.btnClear = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.grdCurve)).BeginInit();
             this.SuspendLayout();
             // 
@@ -175,11 +176,22 @@
             this.btnConnect.UseVisualStyleBackColor = true;
             this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
             // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(516, 51);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(75, 23);
+            this.btnClear.TabIndex = 13;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(632, 450);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.btnConnect);
             this.Controls.Add(this.btnExport);
             this.Controls.Add(this.label1);
@@ -191,6 +203,7 @@
             this.Controls.Add(this.chkCurveA);
             this.Name = "Form1";
             this.Text = "Client";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grdCurve)).EndInit();
             this.ResumeLayout(false);
@@ -213,6 +226,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn CurveC;
         private System.Windows.Forms.Button btnExport;
         private System.Windows.Forms.Button btnConnect;
+        private System.Windows.Forms.Button btnClear;
     }
 }
 

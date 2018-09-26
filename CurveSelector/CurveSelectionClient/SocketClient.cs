@@ -72,6 +72,10 @@ namespace CurveSelectionClient
         /// </summary>
         public void Close()
         {
+            if (clientSocket.Connected)
+            {
+                clientSocket.GetStream().Close();
+            }
             clientSocket.Close();
         }            
     }

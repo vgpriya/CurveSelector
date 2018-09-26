@@ -8,3 +8,13 @@ F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\Curve
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.csproj.CoreCompileInputs.cache
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.exe
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionClient\obj\Debug\CurveSelectionClient.pdb
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\bin\Debug\CurveSelectionClient.exe.config
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\bin\Debug\CurveSelectionClient.exe
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\bin\Debug\CurveSelectionClient.pdb
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.csprojAssemblyReference.cache
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.Form1.resources
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.Properties.Resources.resources
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.csproj.GenerateResource.cache
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.csproj.CoreCompileInputs.cache
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.exe
+F:\Priya\PetroLink\CurveSelector\CurveSelectionClient\obj\Debug\CurveSelectionClient.pdb

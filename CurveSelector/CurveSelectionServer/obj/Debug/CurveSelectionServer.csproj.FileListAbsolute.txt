@@ -5,3 +5,10 @@ F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\Curve
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.csproj.CoreCompileInputs.cache
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.exe
 F:\Priya\CurveSelector\CurveSelectionServer\CurveSelectionServer\obj\Debug\CurveSelectionServer.pdb
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\bin\Debug\CurveSelectionServer.exe.config
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\bin\Debug\CurveSelectionServer.exe
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\bin\Debug\CurveSelectionServer.pdb
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\obj\Debug\CurveSelectionServer.csprojAssemblyReference.cache
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\obj\Debug\CurveSelectionServer.csproj.CoreCompileInputs.cache
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\obj\Debug\CurveSelectionServer.exe
+F:\Priya\PetroLink\CurveSelector\CurveSelectionServer\obj\Debug\CurveSelectionServer.pdb

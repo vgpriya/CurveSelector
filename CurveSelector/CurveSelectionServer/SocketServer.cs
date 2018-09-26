@@ -127,7 +127,8 @@ namespace CurveSelectionServer
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.ToString());
+                //Console.WriteLine(ex.ToString());
+                StopServer();
             }
         }
 
@@ -136,7 +137,7 @@ namespace CurveSelectionServer
         {
             clientSocket.Close();
             serverSocket.Stop();
-            Console.WriteLine(" >> exit");
+            Console.WriteLine(" >> Stopped Server");
             Console.ReadLine();
         }
     }

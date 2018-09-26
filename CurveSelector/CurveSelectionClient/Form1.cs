@@ -31,7 +31,7 @@ namespace CurveSelectionClient
         private void btnConnect_Click(object sender, EventArgs e)
         {
             socketClient.Connect(Settings.IpAddress, Settings.TcpPort);
-            label1.Text = "Client Socket Program - Server Connected ...";
+            label1.Text = "Client Connected to the Server...";
         }
         /// <summary>
         /// Returns the list of Curves which are selected
@@ -67,7 +67,7 @@ namespace CurveSelectionClient
             {
                 if (socketClient.Connected() == false)
                 {
-                    MessageBox.Show("Conneect to the server and continue!!!");
+                    MessageBox.Show("Connect to the server and continue!!!");
                     return;
                 }
                 if (chkCurveA.Checked == false && chkCurveA2.Checked == false && chkCurveB.Checked == false &&
@@ -195,7 +195,6 @@ namespace CurveSelectionClient
             catch (Exception exception)
             {
                 Console.WriteLine(exception);
-                throw;
             }
 
         }
@@ -274,8 +273,17 @@ namespace CurveSelectionClient
             catch (Exception exception)
             {
                 Console.WriteLine(exception);
-                throw;
             }          
-        }        
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            socketClient.Close();
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            grdCurve.Rows.Clear();
+        }
     }
 }
