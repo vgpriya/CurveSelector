@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log>
+  <logCurveInfo id="index">
+    <typeLogData>long</typeLogData>
+  </logCurveInfo>
+  <logCurveInfo id="A">
+    <minIndex>150.0</minIndex>
+    <maxIndex>750.0</maxIndex>
+    <typeLogData>double</typeLogData>
+  </logCurveInfo>
+  <logCurveInfo id="B">
+    <minIndex>44.0</minIndex>
+    <maxIndex>58.0</maxIndex>
+    <typeLogData>double</typeLogData>
+  </logCurveInfo>
+  <logData>
+    <header>index,A,B</header>
+    <data>100,150.0,44.0</data>
+    <data>110,750.0,58.0</data>
+    <data>120,750.0,44.0</data>
+    <data>130,150.0,</data>
+    <data>140,,58.0</data>
+    <data>150,222.0,</data>
+    <data>100,150.0,44.0</data>
+    <data>110,750.0,58.0</data>
+  </logData>
+</log>
